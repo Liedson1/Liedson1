@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liedson-silva-1bb9111b0/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liedson1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liedson1&=true&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liedson1&=true&theme=radical&layout=compact)
 
 
 ### Tecnologias que eu uso no meu dia a dia
