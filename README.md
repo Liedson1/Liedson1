@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Liedson 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedson_98/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/liedson-silva-1bb9111b0/](https://www.linkedin.com/in/liedsonsantos/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liedsonsantos/)
 <div>
 </div><br/>
 
