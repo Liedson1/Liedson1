@@ -1,4 +1,5 @@
-### Olá! Eu sou o Liedson 
+### Olá! Eu sou o Liedson
+## Estudante de Ciência da Computação e desenvolvedor Back-end
 
 <h2 align="left">Social Media</h2>
 
